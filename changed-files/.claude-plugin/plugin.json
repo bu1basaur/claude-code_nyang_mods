@@ -1,0 +1,1 @@
+{ "name": "changed-files", "version": "0.1.0", "description": "A side pane listing the files Claude changed, newest request first, with each file's last diff", "types": "./types/index.d.ts" }

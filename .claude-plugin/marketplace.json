@@ -1,0 +1,21 @@
+{
+  "name": "nyang-mods",
+  "owner": { "name": "bu1basaur" },
+  "plugins": [
+    {
+      "name": "cute-buddy",
+      "source": "./cute-buddy",
+      "description": "입력창 위에서 노는 친구들과 고양이, 날씨 효과"
+    },
+    {
+      "name": "changed-files",
+      "source": "./changed-files",
+      "description": "Claude가 수정한 파일과 diff를 보여주는 옆 창"
+    },
+    {
+      "name": "nyang-nani",
+      "source": "./nyang-nani",
+      "description": "작업이 끝나면 야옹, 물 마시기·스트레칭 알림"
+    }
+  ]
+}

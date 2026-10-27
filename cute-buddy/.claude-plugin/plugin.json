@@ -1,0 +1,1 @@
+{ "name": "cute-buddy", "version": "0.1.0", "description": "A little cat that hangs out above the prompt and wiggles", "types": "./types/index.d.ts" }
