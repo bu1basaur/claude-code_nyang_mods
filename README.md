@@ -15,7 +15,7 @@ Claude Code 입력창에서 원하는 mod를 설치해요.
 ```
 /plugin install cute-buddy --marketplace bu1basaur/claude-code_nyang_mod
 /plugin install changed-files --marketplace bu1basaur/claude-code_nyang_mod
-/plugin install nyang-nani --marketplace bu1basaur/claude-code_nyang_mod
+/plugin install nyang-nani --marketplace bu1basaur/claude-code_nyang_mods
 ```
 
 처음 설치할 때 마켓플레이스를 추가할지 물어보면 `y`, 그다음 설치 범위를 고르면 돼요.
